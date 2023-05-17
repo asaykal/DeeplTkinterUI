@@ -15,8 +15,11 @@ Required Packages
 
 Usage
   1-Clone the repository and navigate to the project directory.
+  
   2-Run the app.py file using Python: python app.py.
+  
   3-The application window will appear with the following components:
+  
     -Text Entry: You can paste or type the text you want to translate in this area.
     -Load File Button: Click this button to load a file (PDF, CSV, Word, or Text) containing the text you want to translate.
     -Convert to CSV Button: If you have loaded a file, this button converts the text to CSV format.
