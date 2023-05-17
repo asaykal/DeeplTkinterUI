@@ -14,6 +14,7 @@ Required Packages
   - deepl-cli
 
 Usage
+
   1-Clone the repository and navigate to the project directory.
   
   2-Run the app.py file using Python: python app.py.
